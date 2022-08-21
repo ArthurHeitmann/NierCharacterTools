@@ -3,7 +3,7 @@
 Small tool set to make modding characters for Nier:Automata in Blender easier.
 
 Current features:
-- Quick outfit showing/hiding/focusing
+- ~~Quick outfit showing/hiding/focusing~~ (Now part of N2B2N)
 - Combining and mixing of outfits
 	- Of different outfits in the same model
 	- Of outfits from other mods in separate files
@@ -20,12 +20,6 @@ Current features:
 All features are in the right panel that you get when pressing the **N** button under "Character Tools".
 
 Also sometimes blender crashes. So save every once in a while.
-
-## Outfit Visibility
-
-![Screenshot](./img/OutfitVisibilityScreenshot.png)
-
-Here you can focus on individual outfits and hide the other objects. You can also show/hide individual outfit parts.
 
 ## Outfit Combining & Mixing
 

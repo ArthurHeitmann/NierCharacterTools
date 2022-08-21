@@ -18,13 +18,13 @@ class MainPanel(bpy.types.Panel):
 def register():
 	bpy.utils.register_class(MainPanel)
 	otherModelsManager.register()
-	outfitVisibilityUi.register()
+	# outfitVisibilityUi.register()
 	outfitCombinerUi.register()
 	fileCleanup.register()
 
 def unregister():
 	bpy.utils.unregister_class(MainPanel)
 	otherModelsManager.unregister()
-	outfitVisibilityUi.unregister()
+	# outfitVisibilityUi.unregister()
 	outfitCombinerUi.unregister()
 	fileCleanup.unregister()
